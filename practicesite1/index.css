@@ -1,0 +1,33 @@
+body{
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	box-sizing:border-box;
+	background-color:white; 
+	margin:auto;
+}
+
+#wrapper {
+	background-color:white;
+	height:951px;
+	width:1024px;
+	margin:auto;
+}
+
+#h1 {
+font-size:24px;
+margin-left:450px;
+margin-top:30px;
+}
+
+#h2 {
+font-size:20px;
+color:;
+}
+
+#para {
+font-size:15px;
+}
+
+#footer{
+font-size:10px;
+}
